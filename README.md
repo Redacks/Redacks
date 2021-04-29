@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning
     Godot
     
-- 📫 How to reach me ...
+- 📫 How to reach me
     Email: redacks@web.de
