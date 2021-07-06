@@ -2,8 +2,7 @@
 - 👀 I’m interested in 
     Programming different applications as a hobby
 
-- 🌱 I’m currently learning
-    Godot
+- 🌱 I’m currently working on a voting App
     
 - 📫 How to reach me
 
@@ -18,3 +17,4 @@
   - C
   - Godot
   - Java
+  - Godot
