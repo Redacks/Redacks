@@ -3,6 +3,8 @@
     Programming different applications as a hobby
 
 - 🌱 I’m currently working on a voting App
+- 🌱 I'm currently also learning C++
+- 🌱 I'm currently also writing a custom interpreted language
     
 - 📫 How to reach me
 
@@ -17,5 +19,5 @@
   - C
   - Godot
   - Java
-  - Godot
   - Python
+  - Typescript
