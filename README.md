@@ -11,7 +11,7 @@
     Email: redacks@web.de
 
 - 💻 Languages:
-  - CSS
+  - CSS / SCSS / SASS
   - HTML
   - JS
   - C#
@@ -21,3 +21,13 @@
   - Java
   - Python
   - Typescript
+
+- Other stuff:
+    - React
+    - Nest.js
+    - MongoDB
+    - SQL
+    - JSON
+    - YAML
+    - CSV
+ 
