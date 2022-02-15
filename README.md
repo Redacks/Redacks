@@ -10,6 +10,7 @@
 - 📫 How to reach me
 
     Email: redacks@web.de
+    Website: https://www.redacks.com
 
 - 💻 Languages:
   - CSS / SCSS / SASS
