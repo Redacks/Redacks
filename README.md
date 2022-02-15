@@ -22,6 +22,7 @@
   - Java
   - Python
   - Typescript
+  - Pascal (Lazarus)
 
 - Other stuff:
     - React
