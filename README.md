@@ -11,6 +11,7 @@
 
     - Email: redacks@web.de
     - Website: https://www.redacks.com
+    - Discord: Red ◇#2044
 
 - 💻 Languages:
   - CSS / SCSS / SASS
