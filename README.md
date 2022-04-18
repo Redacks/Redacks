@@ -9,7 +9,7 @@
     
 - 📫 How to reach me
 
-    - Email: redacks@web.de
+    - Email: admin@redacks.com
     - Website: https://www.redacks.com
     - Discord: Red ◇#2044
 
