@@ -6,12 +6,14 @@
     - working on a voting App
     - learning C++
     - writing a custom interpreted language
+    - Writing Some drivers for dot2 MA Lighting
+    - learning Rust
     
 - 📫 How to reach me
 
     - Email: admin@redacks.com
     - Website: https://www.redacks.com
-    - Discord: Red ◇#2044
+    - Discord: Redacks#2044
 
 - 💻 Languages:
   - CSS / SCSS / SASS
@@ -25,6 +27,7 @@
   - Python
   - Typescript
   - Pascal (Lazarus)
+  - Rust
 
 - Other stuff:
     - React
