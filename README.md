@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Redacks
+- 👋 Hi, I’m @Redacks (Lune) (Niklas Ahlers)
 - 👀 I’m interested in 
     Programming different applications as a hobby
 
 - 🌱 I’m currently...
     - working on a voting App
-    - learning C++
-    - writing a custom interpreted language
-    - Writing Some drivers for dot2 MA Lighting
+    - improving my C++ Skills
+    - writing a kernel in rust just for fun
     - learning Rust
     
 - 📫 How to reach me
@@ -34,7 +33,9 @@
     - Nest.js
     - MongoDB
     - SQL
-    - JSON
-    - YAML
-    - CSV
+    - Astro
+    - Vue
+    - Express
+    - Firebase (just basics)
+    - Docker
  
