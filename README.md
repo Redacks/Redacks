@@ -1,18 +1,21 @@
-- 👋 Hi, I’m @Redacks (Lune) (Niklas Ahlers)
-- 👀 I’m interested in 
-    Programming different applications as a hobby and as a job.
+# Hi, I'm Redacks 👋
 
-  
-- 🌱 I’m currently...
-    - studing IT
-    - working at XITASO
-    - working on a light controll software called pyrope
-    - working on a small drinking game called lets-be-risky
-    - working on my own dedicated server setup and documentation for it
-    
-- 📫 How to reach me
+> _"Think, Plan, Build, Repeat!"_
 
-    - Email: admin@redacks.com
-    - Website: https://www.redacks.com
-    - Discord: @redacks
- 
+## About Me
+
+- **Real Name:** Niklas Ahlers
+- **Studying:** Information Technology at Technical University of Applied Sciences Augsburg
+- **Current Role:** Working as Software Developer at Xitaso
+- **Education:** Completed (High School Diploma/Abitur) in 2023
+
+## Contact
+
+- **Email:** [niklas.ahlers@redacks.com](mailto:niklas.ahlers@redacks.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/niklas-ahlers-a183a3318/)
+- **GitHub:** [Your GitHub Profile](https://github.com/Redacks)
+- **Discord:** @redacks
+
+## Find Out More
+
+You can find more about me, my projects,my skills, and my journey on my [Personal Website](https://redacks.com).
