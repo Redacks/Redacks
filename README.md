@@ -12,7 +12,7 @@ I’m all about building things, messing with fun ideas, and seeing where my cur
 ---
 
 ### Projects
-* **[redacks.com](https://redacks.com)** ([Source Code](https://github.com/redacks/www.redacks.com))
+* **[redacks.com](https://redacks.com)** ([Source Code](https://gitlab.redacks.com/redacks/www-redacks-com))
 * **WIP:** Currently cleaning up my portfolio and refreshing old projects.
 
 ---
